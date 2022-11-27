@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshop_project"]=self["webpackChunkshop_project"]||[]).push([[291],{3291:function(n,t,u){u.r(t),u.d(t,{default:function(){return i}});var e=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,t=n._self._c;return t("div",[t("h3",[n._v("admin，欢迎您！")])])}],s={},c=s,l=u(1001),f=(0,l.Z)(c,e,r,!1,null,null,null),i=f.exports}}]);
+//# sourceMappingURL=291.ebcbe54c.js.map

@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkshop_project"]=self["webpackChunkshop_project"]||[]).push([[289],{7289:function(e,n,u){u.r(n),u.d(n,{default:function(){return p}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v(" Welcome 组件 ")])},l=[],r={},c=r,s=u(1001),o=(0,s.Z)(c,t,l,!1,null,null,null),p=o.exports}}]);
-//# sourceMappingURL=289.3b181820.js.map
